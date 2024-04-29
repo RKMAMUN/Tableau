@@ -15,6 +15,10 @@ He has given us the spreadsheet and would like to see the following:
 
 Here is the Dashboard link: https://public.tableau.com/views/ParkCityPeaksHotelBookings_17143033533110/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
+
+## <p align="center"> Park City Peaks Hotel Booking Dashboard 
+
 ![](Park_City_Peaks_Hotel_Booking_Dashboard.JPG)
 
+</p>
 
