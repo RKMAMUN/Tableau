@@ -15,5 +15,6 @@ He has given us the spreadsheet and would like to see the following:
 
 Here is the Dashboard link: https://public.tableau.com/views/ParkCityPeaksHotelBookings_17143033533110/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
+![Hotel Booking Dashboard Screenshot](dashboard_screenshot.png)
 
 
